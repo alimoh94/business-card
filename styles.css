@@ -1,0 +1,35 @@
+body{
+    margin: 40px auto;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+   
+
+
+}
+.all{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    padding: 20px;
+    margin:0px auto;
+    
+    text-align: center;
+    
+    
+
+}
+.profilepic{
+    width: 150px ;
+   
+
+}
+.surround{
+    border : 3px solid red;
+    border-bottom: 10px solid black;
+    border-radius: 15px;
+}
+.dessign {
+    background: gray;
+    color: #2b2839;
+}
